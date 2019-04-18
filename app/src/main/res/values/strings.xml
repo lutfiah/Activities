@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Demo Activities</string>
+    <string name="textView">Name</string>
+    <string name="textView2">Age</string>
+    <string name="button">Done</string>
+    <string name="editText">Enter name</string>
+    <string name="editText2">Enter Age</string>
 </resources>
